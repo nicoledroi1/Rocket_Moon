@@ -15,7 +15,9 @@
 # Which milestones have been reached in this submission? 
 # (See the assignment handout for descriptions of the milestones) 
 # - Milestone 1/2/3 (choose the one the applies) 
-#	- Milestones 1 and 2
+#	- Milestones 1
+#	- Milestones 2
+#	- Milestones 3
 # 
 # Which approved features have been implemented for milestone 3? 
 # (See the assignment handout for the list of additional features) 
