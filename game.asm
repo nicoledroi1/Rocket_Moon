@@ -36,7 +36,7 @@
 # - https://youtu.be/3wl-69Rw3ek 
 # 
 # Are you OK with us sharing the video with people outside course staff? 
-# - yes, 
+# - yes, https://github.com/nicoledroi1/Rocket_Moon
 # 
 # Any additional information that the TA needs to know: 
 # - Every 15 seconds a platform disapears
