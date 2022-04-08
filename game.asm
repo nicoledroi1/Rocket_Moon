@@ -10,7 +10,7 @@
 # - Unit height in pixels: 8 (update this as needed) 
 # - Display width in pixels: 512 (update this as needed) 
 # - Display height in pixels: 256 (update this as needed) 
-# - Base Address for Display: 0x10008000 ($gp) 
+# - Base Address for Display: 0x10010000 (static data) 
 # 
 # Which milestones have been reached in this submission? 
 # (See the assignment handout for descriptions of the milestones) 
